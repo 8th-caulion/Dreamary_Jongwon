@@ -1,0 +1,24 @@
+.container {
+  padding-top: 2rem;
+}
+
+#namedeco {
+  margin-left: 1rem;
+}
+
+#profile {
+  height: 100%;
+}
+
+#logo {
+  display: flex;
+}
+
+#navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer {
+  padding-top: 1.5rem;
+}
